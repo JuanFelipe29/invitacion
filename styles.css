@@ -118,15 +118,5 @@ body {
     }
   }
   
-  /* Responsivo */
-  @media (max-width: 600px) {
-    .envelope {
-      width: 90%;
-      height: auto;
-    }
-  
-    .modal-content {
-      width: 90%;
-    }
-  }
+
   
